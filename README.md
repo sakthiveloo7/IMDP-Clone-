@@ -6,7 +6,7 @@ User Credentials
 
 Netlify Link - https://imdbclone-demo.netlify.app/
 
-GitHub Link Backend - https://github.com/muthukumar24/imdb-clone-backend.git
+GitHub Link Backend - https://github.com/sakthiveloo7/IMDP-Clone-Back-End-.git
 
 ## This is a simple IMDb clone that allows users to manage movies, actors, and producers. The project supports CRUD operations for users, movies, actors, and producers.
 
